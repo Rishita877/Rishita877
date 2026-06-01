@@ -1,7 +1,9 @@
 # Hi, I'm Rishita 👋
 
 ## About Me
-Graphic Designer and aspiring Data Analyst.
+I'm a B.Tech student passionate about Graphic Design and Data Analytics. I enjoy creating visually engaging designs, building user-centered experiences, and extracting insights from data.
+
+Currently learning Python, SQL, Excel, and data visualization while building projects that transform raw data into actionable insights.
 
 ## Skills
 - Python (Pandas, NumPy)
