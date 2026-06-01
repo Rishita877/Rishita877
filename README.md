@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rishita 👋
+
+## About Me
+Graphic Designer and aspiring Data Analyst.
+
+## Skills
+- Python (Pandas, NumPy)
+- SQL
+- Excel
+- Figma
+- Canva
+
+## Projects
+### Restaurant Data Analysis
+EDA using Python, Pandas, Matplotlib, Seaborn
+
+### Aarogya QR
+Health record sharing app
+
+## Connect With Me
+- LinkedIn : https://www.linkedin.com/in/rishita-baranwal?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email : rishitawork15@gmail.com
 
 <!--
 **Rishita877/Rishita877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
