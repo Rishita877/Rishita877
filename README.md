@@ -9,6 +9,7 @@ Currently learning Python, SQL, Excel, and data visualization while building pro
 - Python (Pandas, NumPy)
 - SQL
 - Excel
+- Power BI
 - Figma
 - Canva
 
