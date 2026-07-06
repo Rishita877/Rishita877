@@ -14,13 +14,13 @@ Currently learning Python, SQL, Excel, and data visualization while building pro
 - Canva
 
 ## Projects
-### - Zomato Restaurant Data Analysis
+### 1. Zomato Restaurant Data Analysis
 EDA using Python, Pandas, Matplotlib, Seaborn
 
-### - Customer Behaviour Analysis
+### 2. Customer Behaviour Analysis
 Full analysis using Python ,SQL and Power BI
 
-### - Blinkit Grocery Data Analysis
+### 3. Blinkit Grocery Data Analysis
 EDA using python and Sales Dashboard using Power BI
 
 
