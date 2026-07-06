@@ -1,7 +1,7 @@
 # Hi, I'm Rishita 👋
 
 ## About Me
-I'm a B.Tech student passionate about Graphic Design and Data Analytics. I enjoy creating visually engaging designs, building user-centered experiences, and extracting insights from data.
+I'm a B.Tech student passionate about Data Analytics and Graphic Design. I enjoy creating visually engaging designs, building user-centered experiences, and extracting insights from data.
 
 Currently learning Python, SQL, Excel, and data visualization while building projects that transform raw data into actionable insights.
 
@@ -14,8 +14,14 @@ Currently learning Python, SQL, Excel, and data visualization while building pro
 - Canva
 
 ## Projects
-### Restaurant Data Analysis
+### Zomato Restaurant Data Analysis
 EDA using Python, Pandas, Matplotlib, Seaborn
+
+## Customer Behaviour Analysis
+Full analysis using Python ,SQL and Power BI
+
+## Blinkit Grocery Data Analysis
+EDA using python and Sales Dashboard using Power BI
 
 ### Aarogya QR
 Health record sharing app
