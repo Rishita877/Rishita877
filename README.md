@@ -17,10 +17,10 @@ Currently learning Python, SQL, Excel, and data visualization while building pro
 ### Zomato Restaurant Data Analysis
 EDA using Python, Pandas, Matplotlib, Seaborn
 
-## Customer Behaviour Analysis
+### Customer Behaviour Analysis
 Full analysis using Python ,SQL and Power BI
 
-## Blinkit Grocery Data Analysis
+### Blinkit Grocery Data Analysis
 EDA using python and Sales Dashboard using Power BI
 
 ### Aarogya QR
