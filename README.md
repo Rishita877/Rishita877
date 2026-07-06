@@ -14,17 +14,15 @@ Currently learning Python, SQL, Excel, and data visualization while building pro
 - Canva
 
 ## Projects
-### Zomato Restaurant Data Analysis
+### - Zomato Restaurant Data Analysis
 EDA using Python, Pandas, Matplotlib, Seaborn
 
-### Customer Behaviour Analysis
+### - Customer Behaviour Analysis
 Full analysis using Python ,SQL and Power BI
 
-### Blinkit Grocery Data Analysis
+### - Blinkit Grocery Data Analysis
 EDA using python and Sales Dashboard using Power BI
 
-### Aarogya QR
-Health record sharing app
 
 ## Connect With Me
 - LinkedIn : https://www.linkedin.com/in/rishita-baranwal?utm_source=share_via&utm_content=profile&utm_medium=member_android
